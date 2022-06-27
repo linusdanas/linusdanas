@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @linusdanas
+- 👀 I’m interested in music and computers
+- 🌱 I’m currently learning python and javascript
+- 💞️ I’m looking to collaborate on nothing atm.
+- 📫 How to reach me: n/a
